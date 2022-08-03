@@ -4,7 +4,7 @@ Dataset: https://www.kaggle.com/fda/adverse-food-events
 
 Question: 
 
-What are the highest predictors that lead to an individual's death? 
+What are the biggest predictors of food-related severe reactions, including death, life-threatening conditions, and hospitalization? 
 What are the probabilities of symptoms.
 
 
@@ -30,6 +30,7 @@ August 2nd (Exploratory Analysis):
 -Split the symptoms and create a hierarchical column (value counts)
 -Value counts for the symptoms (is the data skewed towards anything) 
 -Check the distribution of each variable (including outcomes)
+-Range of the reported date and the enter date 
 -Make predictions/analyses based on trends that we see in this data
 
 August 3rd (Exploratory Analysis): 
