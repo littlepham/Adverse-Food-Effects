@@ -22,7 +22,8 @@ https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/
 Steps and Timeline: 
 
 August 2nd (Exploratory Analysis): 
--Read in the file 
+~~Read in the file ~~ 
+
 -Groupby Dates for Timeframes 
 -Groupby Symptoms (Common symptoms for various ages)
 -Groupby Industry and allergies
