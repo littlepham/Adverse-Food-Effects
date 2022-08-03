@@ -32,7 +32,6 @@ August 2nd (Exploratory Analysis):
 -Check the distribution of each variable (including outcomes)
 -Make predictions/analyses based on trends that we see in this data
 
-
 August 3rd (Exploratory Analysis): 
 -Description of the project goal: Description and Analysis 
 -Description of the exploratory analysis
