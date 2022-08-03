@@ -4,13 +4,12 @@ Dataset: https://www.kaggle.com/fda/adverse-food-events
 
 Question: 
 
-What are the biggest predictors of food-related severe reactions, including death, life-threatening conditions, and hospitalization? 
-What are the probabilities of symptoms.
-
+What are the biggest predictors of food-related severe outcomes, including required intervention, hospitalization, death, life-threatening conditions, disability, serious injuries, and other medical problems? 
 
 Importance of the Question: 
+
 -Put some statistic about how many people die from food allergies each year or have some major suffering <br>
--Can predict what providers need to look out for in symptoms in like E.R. to take care of those who will probably die first -> minimize deaths and healthcare costs <br>
+-Can predict what providers need to look out for in symptoms in like E.R. to take care of those who will probably die first/have serious repercussions -> minimize deaths and healthcare costs <br>
 -Improve diagnoses through analytics (this is in the field of healthcare analytics) <br>
 
 Google Colab Link:
@@ -31,6 +30,8 @@ August 2nd (Exploratory Analysis):
 -Value counts for the symptoms (is the data skewed towards anything) 
 -Check the distribution of each variable (including outcomes)
 -Range of the reported date and the enter date 
+-Check differences between gender
+-Check differences with age 
 -Make predictions/analyses based on trends that we see in this data
 
 August 3rd (Exploratory Analysis): 
