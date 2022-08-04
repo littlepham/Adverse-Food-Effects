@@ -18,6 +18,9 @@ https://colab.research.google.com/drive/1fhQCmTEiSIh7RGKcxkxzcDTDG2BxGwnx?usp=sh
 ### Report Link:
 https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/edit?usp=sharing
 
+### Presentation Link:
+https://docs.google.com/presentation/d/1duZG-GGcRKyi-ILavMa3vDOKtJVMfbOIGBEe2Zvhv5w/edit?usp=sharing
+
 ## Steps and Timeline: 
 
 ### By August 4th (Exploratory Analysis): 
