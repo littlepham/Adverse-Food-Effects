@@ -23,6 +23,7 @@ https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/
 ### By August 4th (Exploratory Analysis): 
 
 **MEET ON ZOOM at ?**
+* Krish - Make all existing EDA work without dropping na rows.
 * Varun - Relation between Industry and product name (both after dropping redacted and without dropping).
 * Disha - Word cloud for symptoms.
 * Krish - Proceed with Outcome boolean EDA idea (code for finding Outcomes_bool from Outcomes uploaded to Github).
@@ -68,7 +69,7 @@ NOTE - Baseline accuracy = 74.35%. Include scaling (for KNN and logreg), normali
 * Write insights and solutions in the report and PPT.
 * Final formatting/changes.
 
-### August 7th/8th (Buffer day if things mess up): 
+### August 8th (Buffer day if things mess up): 
 **MEET at ?**
 * Practice Presentation and re-read deliverables.
 
