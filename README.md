@@ -8,6 +8,7 @@ What are the biggest predictors of food-related severe outcomes, including requi
 
 ## Importance of the Question: 
 
+* Food allergy epidemic
 * Put some statistic about how many people die from food allergies each year or have some major suffering <br>
 * Can predict what providers need to look out for in symptoms in like E.R. to take care of those who will probably die first/have serious repercussions -> minimize deaths and healthcare costs <br>
 * Improve diagnoses through analytics (this is in the field of healthcare analytics) <br>
