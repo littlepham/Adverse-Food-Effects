@@ -20,40 +20,57 @@ https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/
 
 ## Steps and Timeline: 
 
-### August 2nd (Exploratory Analysis): 
-* Read in the file
-* Groupby Dates for Timeframes 
-* Groupby Symptoms (Common symptoms for various ages)
-* Groupby Industry and allergies
-* Split the symptoms and create a hierarchical column (value counts)
-* Value counts for the symptoms (is the data skewed towards anything) 
-* Check the distribution of each variable (including outcomes)
-* Range of the reported date and the enter date 
-* Check differences between gender
-* Check differences with age 
-* Make predictions/analyses based on trends that we see in this data
+### By August 4th (Exploratory Analysis): 
 
-### August 3rd (Exploratory Analysis): 
-* Description of the project goal: Description and Analysis 
-* Description of the exploratory analysis
+**MEET ON ZOOM at ?**
+* Varun - Relation between Industry and product name (both after dropping redacted and without dropping).
+* Disha - Word cloud for symptoms.
+* Krish - Proceed with Outcome boolean EDA idea (code for finding Outcomes_bool from Outcomes uploaded to Github).
+* Ask professor what method to use for encoding the symptoms.
+* Upload results to Github for the report.
 
-### August 4th (Create models):
+**Report + PPT**
+* Description of project goals (Description + Importance of question).
+
+### By August 5th (Create models):
+
+**MEET AFTER WORKSHOP**
+**Coding**
+* Try to encode the symptoms into a feature and find the relation between symptoms and Outcomes_bool.
+* Disha - Word2Vec for symptoms (DO ONLY IF THERE IS NO OTHER WAY TO ENCODE).
+* Varun - Apply PCA to the Word2Vec encoded symptoms (DO ONLY IF THERE IS NO OTHER WAY TO ENCODE).
+* Varun - Apply Boruta, find out which features are important.
+* Upload results to Github for the report.
+
+**Report + PPT**
+* Update description of project goals if question changes.
+* Finish EDA result portion from Aug 4th.
+
+### By August 6th (Models):
+**MEET at ?**
+**Coding**
 * Naive Bayes
+* Logistic Regression
 * KNN
-* Logistic Regression 
-* Boruta (information criterion)
+* Random Forest
+* Disha - SVM
+* Upload results to Github for the report.
 
-### August 5th:
-* Write insights and solutions
-* Make presentation
+NOTE - Baseline accuracy = 74.35%. Include scaling (for KNN and logreg), normalization (for KNN and logreg), splitting into test-train, cross validation for all models.
 
-### August 6th: 
-* Write insights and solutions
-* Make presentation
-* Format the report
+**Report + PPT**
+* Include results from Aug 5th.
 
-### August 7th/8th: 
-* Practice Presentation and re-read deliverables
+### By August 7th: 
+**MEET at ?**
+**Report + PPT**
+* Include results from Aug 6th.
+* Write insights and solutions in the report and PPT.
+* Final formatting/changes.
+
+### August 7th/8th (Buffer day if things mess up): 
+**MEET at ?**
+* Practice Presentation and re-read deliverables.
 
 ### August 9th/10th:
 * Presentation Days
