@@ -23,6 +23,8 @@ https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/
 ### By August 4th (Exploratory Analysis): 
 
 **MEET ON ZOOM at ?**
+
+**Coding**
 * Krish - Make all existing EDA work without dropping na rows.
 * Varun - Relation between Industry and product name (both after dropping redacted and without dropping).
 * Disha - Word cloud for symptoms.
@@ -36,6 +38,7 @@ https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/
 ### By August 5th (Create models):
 
 **MEET AFTER WORKSHOP**
+
 **Coding**
 * Try to encode the symptoms into a feature and find the relation between symptoms and Outcomes_bool.
 * Disha - Word2Vec for symptoms (DO ONLY IF THERE IS NO OTHER WAY TO ENCODE).
@@ -48,7 +51,9 @@ https://docs.google.com/document/d/16yBLidQgjIiWVTrqLjq9xtNM8i7nBs9FbKyTgtKCRXo/
 * Finish EDA result portion from Aug 4th.
 
 ### By August 6th (Models):
+
 **MEET at ?**
+
 **Coding**
 * Naive Bayes
 * Logistic Regression
@@ -63,15 +68,20 @@ NOTE - Baseline accuracy = 74.35%. Include scaling (for KNN and logreg), normali
 * Include results from Aug 5th.
 
 ### By August 7th: 
+
 **MEET at ?**
+
 **Report + PPT**
 * Include results from Aug 6th.
 * Write insights and solutions in the report and PPT.
 * Final formatting/changes.
 
 ### August 8th (Buffer day if things mess up): 
+
 **MEET at ?**
+
 * Practice Presentation and re-read deliverables.
 
 ### August 9th/10th:
+
 * Presentation Days
